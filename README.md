@@ -1,54 +1,69 @@
-# 👋 Hi, I'm Hany
+# 🐞 Hany | Bug Bounty Hunter
 
-Junior Cyber Security Researcher focused on **Bug Bounty hunting** and **Offensive Security**.  
-I specialize in finding, understanding, and responsibly reporting security vulnerabilities.
-
----
-
-## 🐞 Bug Bounty Focus
-- Web Application Security
-- OWASP Top 10
-- Manual testing & methodology-based hunting
-- Responsible disclosure
+Junior **Offensive Security Researcher** focused on **real-world Bug Bounty hunting**.  
+I approach security testing with a **methodology-first mindset**, prioritizing impact, accuracy, and responsible disclosure.
 
 ---
 
-## 🔍 Offensive Security Skills
-- Recon & Enumeration
-- Vulnerability Identification
-- Proof-of-Concept (PoC) creation
-- Exploit analysis (non-weaponized)
+## 🎯 Core Focus
+- Bug Bounty & Responsible Disclosure
+- Web Application Security (OWASP Top 10)
+- Manual-first testing (automation as support)
+- Realistic attacker mindset
 
 ---
 
-## 🧰 Tools & Technologies
-- Languages: Python, Bash, JavaScript
-- Tools: Burp Suite, Nmap, ffuf, Amass
-- Methodologies: OWASP, Recon-first approach
-- Platforms: Linux, GitHub
+## 🧠 Offensive Skill Set
+- Advanced Recon & Asset Discovery
+- Authentication & Authorization Testing
+- Input Validation & Injection Flaws
+- Business Logic Abuse
+- Vulnerability Verification & PoC creation
 
 ---
 
-## 📂 Repositories & Labs
-- 🔐 **Bug Bounty Notes**  
-  Personal notes, methodologies, and checklists  
-  👉 https://github.com/username/bug-bounty-notes
+## ⚙️ Tooling & Stack
+**Languages**
+- Python • Bash • JavaScript
 
-- 🧪 **Vulnerability PoCs**  
-  Proof-of-concepts for educational purposes  
-  👉 https://github.com/username/poc-research
+**Security Tools**
+- Burp Suite • Nmap • ffuf • Amass
+- httpx • nuclei (custom templates)
 
-- ⚙️ **Recon Scripts**  
-  Automation scripts to support manual testing  
-  👉 https://github.com/username/recon-tools
+**Environment**
+- Linux (daily driver)
+- GitHub • Docker
 
 ---
 
-## 📖 Currently Learning
-- Advanced Web Exploitation
-- Real-world Bug Bounty workflows
-- Better recon automation
-- Writing high-quality vulnerability reports
+## 🗂️ Research & Repositories
+- 🔐 **Bug Bounty Methodology**
+  > Structured checklists, recon flows, and attack paths  
+  👉 https://github.com/username/bug-bounty-methodology
+
+- 🧪 **Vulnerability Research (PoCs)**
+  > Clean, reproducible PoCs for learning and validation  
+  👉 https://github.com/username/vuln-pocs
+
+- ⚙️ **Recon & Automation Scripts**
+  > Supporting tools to scale manual testing  
+  👉 https://github.com/username/recon-scripts
+
+---
+
+## 📚 Currently Deep-Diving Into
+- Chained vulnerabilities
+- Authorization bypass patterns
+- Advanced recon correlation
+- Writing high-impact bug reports
+
+---
+
+## 🧾 Reporting Philosophy
+- Clear reproduction steps
+- Minimal noise, maximum impact
+- Proof without weaponization
+- Respect for scope & rules
 
 ---
 
@@ -59,6 +74,6 @@ I specialize in finding, understanding, and responsibly reporting security vulne
 
 ---
 
-## ⚠️ Disclaimer
-All content in this GitHub profile is intended **strictly for educational and authorized security testing purposes**.  
-Any testing must be performed only on systems you own or have explicit permission to test.
+## ⚠️ Legal & Ethical Notice
+All research and tools shared here are for **educational purposes and authorized testing only**.  
+Any misuse or unauthorized activity is strictly discouraged.

@@ -1,79 +1,104 @@
-# 🐞 Hany | Bug Bounty Hunter
+# 🐞 Hany Mamdouh | Bug Bounty Hunter
 
-Junior **Offensive Security Researcher** focused on **real-world Bug Bounty hunting**.  
-I approach security testing with a **methodology-first mindset**, prioritizing impact, accuracy, and responsible disclosure.
-
----
-
-## 🎯 Core Focus
-- Bug Bounty & Responsible Disclosure
-- Web Application Security (OWASP Top 10)
-- Manual-first testing (automation as support)
-- Realistic attacker mindset
+Junior **Cyber Security Researcher** focused on **Bug Bounty hunting** and **Offensive Security**.  
+I specialize in identifying real-world vulnerabilities through structured methodologies, deep analysis, and responsible disclosure.
 
 ---
 
-## 🧠 Offensive Skill Set
-- Advanced Recon & Asset Discovery
+## 🛡️ About Me
+- Junior Bug Bounty Hunter
+- Offensive Security enthusiast
+- Strong background in programming and web technologies
+- Focused on understanding how systems fail and how attackers think
+- Committed to ethical hacking and responsible disclosure
+
+---
+
+## 🎯 Current Focus
+- Bug Bounty Hunting (Web Applications)
+- OWASP Top 10 vulnerabilities
+- Manual testing with automation support
+- Reconnaissance & vulnerability validation
+- Lab-based learning (realistic attack scenarios)
+
+---
+
+## 🧠 Offensive Security Skills
+- Asset Discovery & Reconnaissance
 - Authentication & Authorization Testing
-- Input Validation & Injection Flaws
-- Business Logic Abuse
-- Vulnerability Verification & PoC creation
+- Input Validation & Injection Vulnerabilities
+- Fuzzing & Parameter Manipulation
+- Network Traffic Analysis
+- Vulnerability Verification & PoC Creation
 
 ---
 
-## ⚙️ Tooling & Stack
+## 💻 Programming & Databases
 **Languages**
-- Python • Bash • JavaScript
+- Python
+- Bash
+- JavaScript
+- PHP
+- C / C++
+- SQL
 
-**Security Tools**
-- Burp Suite • Nmap • ffuf • Amass
-- httpx • nuclei (custom templates)
-
-**Environment**
-- Linux (daily driver)
-- GitHub • Docker
+**Databases**
+- MySQL
+- NoSQL Databases
 
 ---
 
-## 🗂️ Research & Repositories
+## 🧰 Tools & Technologies
+- Burp Suite
+- Nmap
+- Nuclei (custom & tuned templates)
+- Wireshark
+- Fuzzing tools
+- Cracking tools (for lab & authorized environments)
+- Linux (primary environment)
+
+---
+
+## 🧪 Learning Platforms & Labs
+- PortSwigger Web Security Academy
+- TryHackMe
+
+---
+
+## 📂 Research & Repositories
 - 🔐 **Bug Bounty Methodology**
-  > Structured checklists, recon flows, and attack paths  
-  👉 https://github.com/username/bug-bounty-methodology
+  > Structured recon flows, testing checklists, and attack patterns
 
-- 🧪 **Vulnerability Research (PoCs)**
-  > Clean, reproducible PoCs for learning and validation  
-  👉 https://github.com/username/vuln-pocs
+- 🧪 **Vulnerability Research & PoCs**
+  > Educational proof-of-concepts with clear reproduction steps
 
-- ⚙️ **Recon & Automation Scripts**
-  > Supporting tools to scale manual testing  
-  👉 https://github.com/username/recon-scripts
+- ⚙️ **Security Automation & Scripts**
+  > Custom scripts to support manual security testing
 
----
-
-## 📚 Currently Deep-Diving Into
-- Chained vulnerabilities
-- Authorization bypass patterns
-- Advanced recon correlation
-- Writing high-impact bug reports
+*(Repositories will be updated continuously as part of ongoing research and learning.)*
 
 ---
 
-## 🧾 Reporting Philosophy
-- Clear reproduction steps
-- Minimal noise, maximum impact
-- Proof without weaponization
-- Respect for scope & rules
+## 🧾 Reporting & Ethics
+- Clear and reproducible vulnerability reports
+- Focus on impact, not noise
+- Respect for scope and program rules
+- No weaponized exploits or unauthorized testing
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/username
-- HackerOne: (optional)
-- Email: hany@example.com
+- 📧 Email: hanymmdouh55@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hany-mamdouh-3251872b7/  
 
 ---
 
-## ⚠️ Legal & Ethical Notice
-All research and tools shared here are for **educational purposes and authorized testing only**.  
-Any misuse or unauthorized activity is strictly discouraged.
+## 📄 CV
+📌 **Coming Soon**  
+(A detailed CV will be added here once finalized.)
+
+---
+
+## ⚠️ Disclaimer
+All tools, scripts, and research shared on this profile are intended **strictly for educational purposes and authorized security testing only**.  
+Any misuse of the information provided is not my responsibility.

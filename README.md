@@ -1,35 +1,36 @@
-# 🐞 Hany Mamdouh | Bug Bounty Hunter
+<h1 align="center">Hi, I'm Hany Mamdouh</h1>
 
-Junior **Cyber Security Researcher** focused on **Bug Bounty hunting** and **Offensive Security**.  
-I specialize in identifying real-world vulnerabilities through structured methodologies, deep analysis, and responsible disclosure.
+<p align="center">
+  <b>Junior Bug Bounty Hunter | Offensive Security Enthusiast</b>
+</p>
 
 ---
 
 ## 🛡️ About Me
-- Junior Bug Bounty Hunter
-- Offensive Security enthusiast
-- Strong background in programming and web technologies
-- Focused on understanding how systems fail and how attackers think
-- Committed to ethical hacking and responsible disclosure
+- Junior Cyber Security Researcher focused on **Bug Bounty Hunting**
+- Strong offensive mindset with solid programming background
+- Interested in understanding real-world vulnerabilities and attack chains
+- Committed to **ethical hacking** and **responsible disclosure**
+- Continuous learner through labs and hands-on practice
 
 ---
 
 ## 🎯 Current Focus
-- Bug Bounty Hunting (Web Applications)
-- OWASP Top 10 vulnerabilities
+- Web Application Security
+- OWASP Top 10
 - Manual testing with automation support
 - Reconnaissance & vulnerability validation
-- Lab-based learning (realistic attack scenarios)
+- Practical labs and real-world scenarios
 
 ---
 
 ## 🧠 Offensive Security Skills
-- Asset Discovery & Reconnaissance
+- Asset Discovery & Recon
 - Authentication & Authorization Testing
-- Input Validation & Injection Vulnerabilities
+- Input Validation & Injection Flaws
 - Fuzzing & Parameter Manipulation
-- Network Traffic Analysis
-- Vulnerability Verification & PoC Creation
+- Traffic Analysis with Wireshark
+- Vulnerability Verification & Clean PoCs
 
 ---
 
@@ -48,57 +49,40 @@ I specialize in identifying real-world vulnerabilities through structured method
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Security Tools
 - Burp Suite
 - Nmap
-- Nuclei (custom & tuned templates)
+- Nuclei
 - Wireshark
 - Fuzzing tools
-- Cracking tools (for lab & authorized environments)
+- Cracking tools (labs & authorized environments only)
 - Linux (primary environment)
 
 ---
 
-## 🧪 Learning Platforms & Labs
+## 🧪 Labs & Learning Platforms
 - PortSwigger Web Security Academy
 - TryHackMe
 
 ---
 
-## 📂 Research & Repositories
-- 🔐 **Bug Bounty Methodology**
-  > Structured recon flows, testing checklists, and attack patterns
-
-- 🧪 **Vulnerability Research & PoCs**
-  > Educational proof-of-concepts with clear reproduction steps
-
-- ⚙️ **Security Automation & Scripts**
-  > Custom scripts to support manual security testing
-
-*(Repositories will be updated continuously as part of ongoing research and learning.)*
-
----
-
-## 🧾 Reporting & Ethics
-- Clear and reproducible vulnerability reports
-- Focus on impact, not noise
-- Respect for scope and program rules
-- No weaponized exploits or unauthorized testing
+## 📂 Repositories
+🚧 *Repositories will be added progressively as part of ongoing learning and research.*  
+(Notes, methodologies, PoCs, and automation scripts)
 
 ---
 
 ## 📫 Contact
 - 📧 Email: hanymmdouh55@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/hany-mamdouh-3251872b7/  
+- 💼 LinkedIn: https://www.linkedin.com/in/hany-mamdouh-3251872b7/
 
 ---
 
 ## 📄 CV
-📌 **Coming Soon**  
-(A detailed CV will be added here once finalized.)
+📌 **Coming Soon**
 
 ---
 
 ## ⚠️ Disclaimer
-All tools, scripts, and research shared on this profile are intended **strictly for educational purposes and authorized security testing only**.  
-Any misuse of the information provided is not my responsibility.
+All content shared on this GitHub profile is for **educational purposes and authorized security testing only**.  
+Any unauthorized use of the information provided is strictly discouraged.
